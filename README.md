@@ -14,7 +14,7 @@ The script reads a source file, isolates JSON blocks by counting opening and clo
 
 ## Example Transformation
 
-Suppose you have a source file, `sample_free.txt`, with the following content:
+Suppose you have a source file, `input.txt`, with the following content:
 
 ```plaintext
 [{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}]
